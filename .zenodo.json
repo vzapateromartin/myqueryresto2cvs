@@ -20,7 +20,9 @@
         {
             "identifier": "https://github.com/vzapateromartin/myqueryresto2cvs",
             "relation": "isPartOf",
-            "resource_type": "url"}
+            "resource_type": "source-code-repositorie",
+            "scheme":"url"
+        }
     ],
     "upload_type": "software",
     "contributors": 
@@ -28,7 +30,8 @@
         {
             "name" : "Fontaine De le Ghetto, Rafaela",
             "affiliation" : "Las Palas University",
-            "orcid" : "0000-0001-8147-0394"
+            "orcid" : "0000-0001-8147-0394",
+            "type" : "ContactPerson"
         }
     ]
 }
