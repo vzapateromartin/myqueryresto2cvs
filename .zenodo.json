@@ -20,11 +20,9 @@
         {
             "identifier": "https://github.com/vzapateromartin/myqueryresto2cvs",
             "relation": "isPartOf",
-            "resource_type": "source-code-repositorie",
             "scheme":"url"
         }
     ],
-    "upload_type": "software",
     "contributors": 
     [ 
         {
